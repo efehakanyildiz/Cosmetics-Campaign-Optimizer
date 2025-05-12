@@ -1,6 +1,8 @@
 🧴 Cosmetic Campaign Optimization with Machine Learning
 
 This project builds a machine learning-based system to optimize digital marketing campaigns in the cosmetics industry. It predicts key performance indicators (KPIs) such as clicks, conversions, revenue, and ROI based on input factors like campaign type, channel, brand, region, and product category. The system also recommends the most effective strategy tailored to user constraints.
+
+
 💼 BUSINESS RULE
 This project aims to build a data-driven decision support system to maximize the Return on Investment (ROI) of marketing campaigns in the cosmetics industry. The business goal is to identify the key factors influencing campaign success based on historical campaign data and customer interactions, and to provide strategic predictions for future campaigns.
 
